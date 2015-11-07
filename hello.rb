@@ -1,4 +1,5 @@
-# This is an unwanted but committed change
+# Default is World
+# Author: Phillip Hancock (phil@somwhere.com)
 name = ARGV.first || "World"
 
 puts "Hello, #{name}!"
